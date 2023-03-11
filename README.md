@@ -3,10 +3,15 @@
 
 # PORTFOLIO
 
-A Portfolio Webiste created using HTML , CSS and Javascript.
-
-
-
+A Portfolio Webiste which contains :
+-Header
+-Home
+-About
+-Skills
+-Qualification
+-Portfolio
+-Contact
+-Footer
 
 
 ## Features
